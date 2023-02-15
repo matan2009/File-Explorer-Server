@@ -30,4 +30,4 @@ The File Explorer is web application that provides a user interface for navigati
 # Future Work
 
 1. Have better CSS style to view the app.
-2. Upload new files to the current folder functionality.
+2. Upload new files to current folder .
