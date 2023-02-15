@@ -1,6 +1,6 @@
 # File-Explorer
 
-The File Explorer is web application that provides a user interface for navigating and managing files and directories.
+File Explorer is web application that provides a user interface for navigating and managing files and directories.
 
 # Features
 1. Navigatae through directories.
